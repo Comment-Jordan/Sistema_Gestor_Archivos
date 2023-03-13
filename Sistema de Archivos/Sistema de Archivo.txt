@@ -1,0 +1,41 @@
+Id: 1
+Nombre: Bibiana
+Apellido paterno: Contrearas 
+Apellido materno: Paisano
+Edad: 19
+
+Id: 10
+Nombre: Jordan
+Apellido paterno: P�rez
+Apellido materno: Paisano
+Edad: 21
+
+Id: 90
+Nombre: Jordan
+Apellido paterno: P�rez
+Apellido materno: Paisano
+Edad: 21
+
+Id: 107
+Nombre: 
+Apellido paterno: 
+Apellido materno: 
+Edad: 10
+
+Id: 108
+Nombre: 
+Apellido paterno: 
+Apellido materno: 
+Edad: 10
+
+Id: 109
+Nombre: 
+Apellido paterno: 
+Apellido materno: 
+Edad: 10
+
+Id: 10000
+Nombre: 
+Apellido paterno: 
+Apellido materno: 
+Edad: 10
